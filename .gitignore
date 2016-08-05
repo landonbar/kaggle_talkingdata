@@ -89,3 +89,8 @@ ENV/
 .ropeproject
 
 .DS_Store
+node_modules
+*.csv
+.idea
+*.zip
+
